@@ -25,12 +25,12 @@
 ## Images of the working page
 
 ![ScreenShot1of3](./assets/images/horiseon01.png)
-![ScreenShot2of3](./assets/images/horiseon03.png)
+![ScreenShot2of3](./assets/images/horiseon02.png)
 ![ScreenShot3of3](./assets/images/horiseon03.png)
 
 [Link to page](https://darrylsimpson.github.io/accessability-heriseon/)
 
 
 
-This was created by Darryl Simpson
+This was created by Darryl Simpson </ br>
 Feel free to contact me at [Darryl.Simpson0793@gmail.com](mailto:Darryl.Simpson0793@gmail.com)
