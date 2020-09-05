@@ -32,5 +32,5 @@
 
 
 
-This was created by Darryl Simpson </ br>
+This was created by Darryl Simpson 
 Feel free to contact me at [Darryl.Simpson0793@gmail.com](mailto:Darryl.Simpson0793@gmail.com)
