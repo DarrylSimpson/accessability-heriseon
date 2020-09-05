@@ -22,7 +22,7 @@
 * Heading attributes fall in sequestial order.
 * Title is as concise and descriptave as I thought it should
 
-## Few images of the working page
+## Images of the working page
 
 ![ScreenShot1of3](./assets/images/horiseon01.png)
 ![ScreenShot2of3](./assets/images/horiseon03.png)

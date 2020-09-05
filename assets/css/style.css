@@ -1,9 +1,11 @@
+/*tells every element not to have margins, padding and have border box sizing*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/*everything in the body section background is this color*/
 body {
     background-color: #d9dcd6;
 }
@@ -16,16 +18,17 @@ header {
     color: #ffffff;
 }
 
-/**/
 header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
+/*styles the seo in seriseon a different color*/
 .seo {
     color: #d9dcd6;
 }
 
+/*stles the nav text on the top right of the page*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -33,11 +36,11 @@ header nav {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/*sets no style to the unordered list*/
 header nav ul {
     list-style-type: none;
 }
-
+/*sets the list so the text goes to the width of the page and doest make a new block*/
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
