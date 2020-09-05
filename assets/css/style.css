@@ -25,7 +25,7 @@ header h1 {
 .seo {
     color: #d9dcd6;
 }
-/* would be changing div to nav to reflect html changes to this */
+
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -43,11 +43,13 @@ header nav ul li {
     margin-left: 25px;
 }
 
+/*everything in an a tag will be white font color white.*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/*everything in every p tag will have the font size of 16px*/
 p {
     font-size: 16px;
 }
@@ -61,13 +63,16 @@ p {
     background-position: center;
 }
 
-/* changed style for everything in the content class */
+/* changed style for everything in the content class width is taking up 75% of page, diplaying inline-block so all elements in .content
+will onnly take up 75% and go to next block. left margin 20px from the left edge of page*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/*everything in article element will be 20px from bottom of .content. have a heght of 300px. be withing specified font family. have a background color,
+and have a white font color*/
 article {
     margin-bottom: 20px;
     padding: 50px;
@@ -77,59 +82,18 @@ article {
     color: #ffffff;
 }
 
+/*all h2 elements will be 36px font, and have a margin of 20px on the bottom */
 h2{
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-/*
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-*/
 /*setting the height of images in content class*/
 .content img {
     max-height: 200px;
 }
 
+/*if an element wanted to float left or right just assign these classes for them*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -150,6 +114,7 @@ h2{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
+
 /*all aside elements have 32px margin on the bottom and a white color */
 aside {
     margin-bottom: 32px;
