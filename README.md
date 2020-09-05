@@ -16,11 +16,15 @@
 ## Finished Goals
 * Given the code I fixed header links to sections on the page.
 * Gave the HTML a semantic structure for its elements so its easier to read and comprehend.
-* Consolodated CSS and got rid of unessesary style elements.
+* Consolidated CSS and got rid of unessesary style elements.
 * HTML and CSS in file follow a logical structure independent of styling and positioning.
 * Image elements on page have accessible alt attributes.
 * Heading attributes fall in sequestial order.
 * Title is as concise and descriptave as I thought it should
+
+## Few images of the working page
+
+![ScreenShot1of3](./assets/images/horiseon01.png)
 
 
 This was created by Darryl Simpson
