@@ -10,6 +10,30 @@ body {
     background-color: #d9dcd6;
 }
 
+
+/*all h2 elements will be 36px font, and have a margin of 20px on the bottom */
+h2{
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/*assign center text and 10 px to the margin of all h3 tags. only h3 tags in the section with the class benifits*/
+h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/*everything in an a tag will be white font color white.*/
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/*everything in every p tag will have the font size of 16px*/
+p {
+    font-size: 16px;
+}
+
 /*syles the header on the page*/
 header {
     padding: 20px;
@@ -46,17 +70,6 @@ header nav ul li {
     margin-left: 25px;
 }
 
-/*everything in an a tag will be white font color white.*/
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-/*everything in every p tag will have the font size of 16px*/
-p {
-    font-size: 16px;
-}
-
 .hero {
     height: 800px;
     width: 100%;
@@ -83,12 +96,6 @@ article {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
-
-/*all h2 elements will be 36px font, and have a margin of 20px on the bottom */
-h2{
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 /*setting the height of images in content class*/
@@ -122,12 +129,6 @@ h2{
 aside {
     margin-bottom: 32px;
     color: #ffffff;
-}
-
-/*assign center text and 10 px to the margin of all h3 tags. only h3 tags in the section with the class benifits*/
-h3 {
-    margin-bottom: 10px;
-    text-align: center;
 }
 
 /* benifit-img class made to consolidate code to size all images in .benifits class. block display so they each are on there
